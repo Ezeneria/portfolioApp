@@ -1,0 +1,1 @@
+<template>  <div id="content">    CONTENT  </div></template><script>  export default {    name: "index"  }</script><style scoped></style>

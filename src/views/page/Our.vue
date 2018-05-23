@@ -1,0 +1,1 @@
+<template>  </template><script>  export default {    name: "Our"  }</script><style scoped></style>

@@ -1,0 +1,1 @@
+<template>    <div class="container">      <nav-bar/>    </div></template><script>  import navBar from '../nav-bar/index'  export default {    name: "app-header",    components: {      navBar    }  }</script><style lang="scss" scoped></style>

@@ -1,0 +1,1 @@
+<template ><div class="container">  FOOTER</div></template><script>  export default {    name: "app-footer"  }</script><style scoped></style>
